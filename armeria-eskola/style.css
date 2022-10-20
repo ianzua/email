@@ -1,5 +1,5 @@
 /*font-import*/
-
+/*ASAP*/
 @font-face {
     font-family: 'Asap';
     src: url('fonts/Asap-Bold.eot');
@@ -31,7 +31,7 @@
     src: url('fonts/Asap-MediumItalic.eot');
     src: url('fonts/Asap-MediumItalic.eot?#iefix') format('embedded-opentype'),
         url('fonts/Asap-MediumItalic.woff2') format('woff2'),
-        url(fonts/Asap-MediumItalic.woff') format('woff'),
+        url('fonts/Asap-MediumItalic.woff') format('woff'),
         url('fonts/Asap-MediumItalic.ttf') format('truetype'),
         url('fonts/Asap-MediumItalic.svg#Asap-MediumItalic') format('svg');
     font-weight: 500;
@@ -90,3 +90,6 @@
     font-style: normal;
     font-display: swap;
 }
+
+
+/*ROBOTO SLAB*/

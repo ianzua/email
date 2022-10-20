@@ -1,4 +1,8 @@
 <mjml>
+  <mj-head>
+     <mj-font name="Roboto Slab"
+       href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;800&display=swap" />
+   </mj-head>
   <mj-include path="https://github.com/ianzua/email/blob/main/armeria-eskola/style.css" type="css" />
   <mj-body background-color="#ffffff" color="#55575d" font-family="Museo, Arial, sans-serif">
     <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" padding-top="30px" padding="20px 0" text-align="center" vertical-align="top">
@@ -13,8 +17,8 @@
     </mj-section>
     <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding-bottom="0px" padding-top="30px" padding="20px 0" text-align="center" vertical-align="top">
       <mj-column>
-        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="30px" line-height="22px" padding-bottom="10px" padding-top="10px" padding="10px 25px">
-          <p style="line-height: 30px; margin: 10px 0; text-align: center; color:#151e23; font-size:30p; font-family:Georgia,Helvetica,Arial,sans-serif">- Our Holiday Recipes -</p>
+        <mj-text align="left" color="#55575d" font-family="Museo, Arial, sans-serif" font-size="30px" line-height="22px" padding-bottom="10px" padding-top="10px" padding="10px 25px">
+          <p style="line-height: 30px; margin: 10px 0; text-align: center; color:#151e23; font-size:30p; font-family:Asap,Helvetica,Arial,sans-serif">- Our Holiday Recipes -</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -24,7 +28,7 @@
       </mj-column>
       <mj-column border-left="2px solid #D8DDE7">
         <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="40px" padding-right="40px" padding-top="0px" padding="10px 25px">
-          <p style="margin: 10px 0; color:#151e23; font-size:16px; font-family:Georgia,Helvetica,Arial,sans-serif"><b>Cake Title</b></p>
+          <p style="margin: 10px 0; color:#151e23; font-size:16px; font-family:Roboto Slab, serif"><b>Cake Title</b></p>
           <p style="line-height: 16px; margin: 10px 0;font-size:14px; color:#151e23; font-family:Georgia,Helvetica,Arial,sans-serif; color:#354552">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
           <p style="line-height: 16px; margin: 10px 0; color:#354552; font-size:14px; font-family:Georgia,Helvetica,Arial,sans-serif"><u>Choose me</u> &gt;</p>
         </mj-text>
