@@ -106,7 +106,7 @@
         <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="15px" padding-top="0px" padding="10px 0px">
           <p style="margin: 10px 0 0 0; color:#9A2E33; font-size:12px; font-weight: 600; font-family:Roboto Slab, serif">12:45-13:00</p>
           <p style="line-height: 16px; margin: 10px 0;font-size:16px; color:#151e23; font-family:Roboto Slab, serif; font-weight: 600; color:#000000">Hitzaldia</p>
-          <p style="line-height: 16px; margin: 10px 0 0 0;font-size:16px; color:#000000; font-family:Asap,Helvetica,Arial,sans-serif; font-weight: 500; color:#000000">HIZLARIA:</p>
+          <p style="line-height: 16px; margin: 10px 0 3px 0;font-size:16px; color:#000000; font-family:Asap,Helvetica,Arial,sans-serif; font-weight: 500; color:#000000">HIZLARIA:</p>
           <p style="line-height: 14px; margin-bottom: 20px;font-size:13px; color:#000000; font-family:Asap,Helvetica,Arial,sans-serif; font-weight: 400; color:#000000"><b>Imanol Urreisti</b>, Armeria Eskolako zuzendaria</p> 
           <p style="line-height: 16px; margin: 10px 0 0 0;font-size:16px; color:#000000; font-family:Asap,Helvetica,Arial,sans-serif; font-weight: 500; color:#000000">GAIA:</p>
           <p style="line-height: 14px; margin-bottom: 20px;font-size:13px; color:#000000; font-family:Asap,Helvetica,Arial,sans-serif; font-weight: 400; color:#000000">Espezializazio berriaren ("Industria-mantentzearen Digitalizazioa") gaineko hausnarketa eta kontrastearen ondorioak.</p> 
@@ -119,9 +119,10 @@
         <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="15px" padding-top="0px" padding="10px 0px">
           <p style="margin: 10px 0 0 0; color:#9A2E33; font-size:12px; font-weight: 600; font-family:Roboto Slab, serif">12:45-13:00</p>
           <p style="line-height: 16px; margin: 10px 0;font-size:16px; color:#151e23; font-family:Roboto Slab, serif; font-weight: 600; color:#000000">Ponencia</p>
-          <p style="line-height: 16px; margin: 10px 0 25px;font-size:16px; color:#000000; font-family:Asap,Helvetica,Arial,sans-serif; font-weight: 500; color:#000000">PONENTE:</p>
-          <p style="line-height: 16px; margin-bottom: 3px;font-size:16px; color:#000000; font-family:Roboto Slab, serif; font-weight: 600; color:#000000">Jon Gurrutxaga</p>
-          <p style="line-height: 14px; margin-bottom:20px;font-size:13px; color:#000000; font-family:Asap,Helvetica,Arial,sans-serif; font-weight: 400; color:#000000">Director de Innovación en DFG</p>
+          <p style="line-height: 16px; margin: 10px 0 3px 0;font-size:16px; color:#000000; font-family:Asap,Helvetica,Arial,sans-serif; font-weight: 500; color:#000000">PONENTE:</p>
+          <p style="line-height: 14px; margin-bottom: 20px;font-size:13px; color:#000000; font-family:Asap,Helvetica,Arial,sans-serif; font-weight: 400; color:#000000"><b>Imanol Urreisti</b>, director de Armeria Eskola</p> 
+          <p style="line-height: 16px; margin: 10px 0 0 0;font-size:16px; color:#000000; font-family:Asap,Helvetica,Arial,sans-serif; font-weight: 500; color:#000000">TEMA:</p>
+          <p style="line-height: 14px; margin-bottom: 20px;font-size:13px; color:#000000; font-family:Asap,Helvetica,Arial,sans-serif; font-weight: 400; color:#000000">Conclusiones de la reflexión y contraste sobre la nueva especialización ("Digitalización del Mantenimiento Industrial").</p>
         </mj-text>
       </mj-column>
     <mj-section background-color="#ffffff" background-repeat="repeat" padding-top="0px" padding="20px 0" text-align="center" vertical-align="top">
