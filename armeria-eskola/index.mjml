@@ -4,36 +4,34 @@
        href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;800&display=swap" />
    </mj-head>
   <mj-include path="https://github.com/ianzua/email/blob/main/armeria-eskola/style.css" type="css" />
-  <mj-body background-color="#ffffff" color="#55575d" font-family="Asap, Arial, sans-serif">
-    <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" padding-top="30px" padding="20px 0" text-align="center" vertical-align="top">
+  <mj-body>
+    <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" padding-top="30px" padding="20px 0" text-align="center">
       <mj-column>
         <mj-image align="center" padding="10px 10px" src="https://raw.githubusercontent.com/ianzua/email/main/armeria-eskola/logo-gorri.png" target="_blank" width="166px"></mj-image>
       </mj-column>
     </mj-section>
-    <mj-section background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center" vertical-align="top">
+    <mj-section background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center">
       <mj-column>
         <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="0px" src="https://raw.githubusercontent.com/ianzua/email/main/armeria-eskola/hero-2.png" target="_blank" width="600px"></mj-image>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding-bottom="0px" padding-top="30px" padding="20px 0" text-align="left" vertical-align="top">
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding-bottom="0px" padding-top="30px" padding="20px 0" text-align="left">
       <mj-column>
-        <mj-text align="center" color="#55575d" font-family="Asap, Arial, sans-serif" font-size="20px" line-height="22px" front-weight="500" padding-bottom="10px" padding-top="10px" padding="10px 25px">
-          <p style="line-height: 30px; margin: 10px 0; text-align: left; color:#151e23; font-size:20px; font-weight: 500; font-family:Asap,Helvetica,Arial,sans-serif"><img style="width: 20px; margin-bottom: -3px" src="https://raw.githubusercontent.com/ianzua/email/main/armeria-eskola/eguna-1.png" /> Azaroak 17 / 17 de Noviembre</p>
-          <p style="line-height: 30px; margin: 10px 0; text-align: left; color:#151e23; font-size:20px; font-weight: 500; font-family:Asap,Helvetica,Arial,sans-serif"><img style="width: 20px; margin-bottom: -3px" src="https://raw.githubusercontent.com/ianzua/email/main/armeria-eskola/ordutegia-1.png" /> 12:00 - 13:00</p>
-          <p style="line-height: 30px; margin: 10px 0; text-align: left; color:#151e23; font-size:20px; font-weight: 500; font-family:Asap,Helvetica,Arial,sans-serif"><img style="width: 20px; margin-bottom: -3px" src="https://raw.githubusercontent.com/ianzua/email/main/armeria-eskola/lekua-1.png" /> Armeria Eskola, Eibar</p>
-          <p style="line-height: 30px; margin: 10px 0; text-align: left; color:#151e23; font-size:20px; font-weight: 500; font-family:Asap,Helvetica,Arial,sans-serif"><img style="width: 20px; margin-bottom: -3px" src="https://raw.githubusercontent.com/ianzua/email/main/armeria-eskola/elebiduna-1.png" /> Elebiduna / Bilingüe</p>
+        <mj-text align="center" color="#55575d" font-family="Asap, Arial, sans-serif" font-size="20px" line-height="22px" font-weight="500" padding-bottom="10px" padding-top="10px" padding="10px 25px">
+          <p style="line-height: 30px; margin: 10px 0; text-align: left; color:#151e23; font-size:20px; font-weight: 500; font-family:Asap,Helvetica,Arial,sans-serif"><img style="width: 30px; margin-bottom: -8px" src="https://raw.githubusercontent.com/ianzua/email/main/armeria-eskola/eguna-1.png" /> Azaroak 17 / 17 de Noviembre</p>
+          <p style="line-height: 30px; margin: 10px 0; text-align: left; color:#151e23; font-size:20px; font-weight: 500; font-family:Asap,Helvetica,Arial,sans-serif"><img style="width: 30px; margin-bottom: -8px" src="https://raw.githubusercontent.com/ianzua/email/main/armeria-eskola/ordutegia-1.png" /> 12:00 - 13:00</p>
+          <p style="line-height: 30px; margin: 10px 0; text-align: left; color:#151e23; font-size:20px; font-weight: 500; font-family:Asap,Helvetica,Arial,sans-serif"><img style="width: 30px; margin-bottom: -8px" src="https://raw.githubusercontent.com/ianzua/email/main/armeria-eskola/lekua-1.png" /> Armeria Eskola, Eibar</p>
+          <p style="line-height: 30px; margin: 10px 0; text-align: left; color:#151e23; font-size:20px; font-weight: 500; font-family:Asap,Helvetica,Arial,sans-serif"><img style="width: 30px; margin-bottom: -8px" src="https://raw.githubusercontent.com/ianzua/email/main/armeria-eskola/elebiduna-1.png" /> Elebiduna / Bilingüe</p>
         </mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding-bottom="0px" padding-top="30px" padding="20px 0" text-align="center" vertical-align="top">
-      <mj-column>
-        <mj-text align="left" color="#ffffff" font-family="Roboto Slab,serif" font-size="70px" line-height="22px" padding-bottom="10px" padding-top="10px" padding="10px 0px">
-          <p style="line-height: 70px; margin: 10px 0; text-align: center; color:#ffffff; letter-spacing: 5px; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; font-size:70px; font-weight: 800; font-family:Roboto Slab,serif; opacity: 0.25">JARDUNALDIA</p>
-        </mj-text>
+    <mj-section background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center">
+      <mj-column width="100%">
+        <mj-image align="center" padding-bottom="20px" padding-left="20px" padding-right="20px" padding-top="20px" padding="0px" src="https://raw.githubusercontent.com/ianzua/email/main/armeria-eskola/JARDUNALDIA.png" target="_blank" width="500px"></mj-image>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding-bottom="0px" padding-top="30px" padding="20px 0" text-align="center" vertical-align="top">
-      <mj-column>
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding-bottom="0px" padding-top="30px" padding="20px 0" text-align="center">
+      <mj-column width="50%">
         <mj-text align="left" color="#55575d" font-family="Asap,Helvetica,Arial,sans-serif" font-size="70px" line-height="22px" padding-bottom="10px" padding-top="10px" padding="10px 20px 10px 0px">
           <p style="line-height: 14px; margin: 10px 0; text-align: left; color:#000; font-size:13px; font-weight: 100; font-family:Asap,Helvetica,Arial,sans-serif;">Armeria Eskolan badakigu gero eta digitalagoa den mundu honetan, enpresek beren negozio-ereduak aldatu behar izan dituztela, alegia, digitalki eraldatu beharra izan dutela, biziraun ahal izateko. </p>
 					<p style="line-height: 14px; margin: 10px 0; text-align: left; color:#000; font-size:13px; font-weight: 100; font-family:Asap,Helvetica,Arial,sans-serif;">Enpresa horiei guztiei digitalizazio-prozesua ekiten laguntzeko asmoz, “mantentze industrialaren digitalizazioa” izeneko espezializazio berri bat jarri dugu abian, profesional berriak trebatzera bideratua dagoena, enpresetako lanpostuak beteko gai izan daitezen.</p>
@@ -46,13 +44,11 @@
         </mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" padding="20px 0" text-align="center" vertical-align="top">
+    <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" padding="20px 0" text-align="center">
       <mj-column>
-        <mj-column width="100%">
           <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-top="0px" padding="10px 0px 20px 0px">
             <p style="margin: 10px 0; color:#151e23; font-size:24px; font-weight: 600; font-family:Roboto Slab, serif">EGITARAUA</p>
           </mj-text>
-        </mj-column>
         <mj-column border-left="2px solid #D8DDE7" width="290px">
           <mj-raw>
             <div background-color="#9A2E33" height="10px" width="10px" style="display: block;height: 10px; width: 10px; background-color: #9A2E33; border-radius: 50%; position: absolute; border: 2px solid #D8DDE7; margin-left: -6px; margin-top: 15px"></div>
@@ -89,11 +85,9 @@
       </mj-column>
       
       <mj-column>
-        <mj-column width="100%">
           <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-top="0px" padding="10px 30px 10px 0px">
             <p style="margin: 10px 0; color:#151e23; font-size:24px; font-weight: 600; font-family:Roboto Slab, serif">PROGRAMACIÓN</p>
           </mj-text>
-        </mj-column>
         <mj-column border-left="2px solid #D8DDE7" width="280px">
           <mj-raw>
             <div background-color="#9A2E33" height="10px" width="10px" style="display: block;height: 10px; width: 10px; background-color: #9A2E33; border-radius: 50%; position: absolute; border: 2px solid #D8DDE7; margin-left: -6px; margin-top: 15px"></div>
@@ -130,29 +124,29 @@
       </mj-column>
     </mj-section>
      
-    <mj-section background-color="#ffffff" background-repeat="repeat" padding-top="0px" padding="20px 0" text-align="center" vertical-align="top">
+    <mj-section background-color="#ffffff" background-repeat="repeat" padding-top="0px" padding="20px 0" text-align="center">
       <mj-column>
         
       </mj-column>
     </mj-section>
-    <mj-section background-color="#ffffff" background-url="https://raw.githubusercontent.com/ianzua/email/main/armeria-eskola/cta.png" background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 15%" text-align="center" vertical-align="top" position="relative">
+    <mj-section background-color="#ffffff" background-url="https://raw.githubusercontent.com/ianzua/email/main/armeria-eskola/cta.png" background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 15%" text-align="center">
       <mj-column>
-        <mj-text align="center" color="#ffffff" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="15px" padding-top="0px" padding="35px 0px" position="relative" style="position: relative; z-index: 2;">
+        <mj-text align="center" color="#ffffff" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="15px" padding-top="0px" padding="35px 0px">
             <p style="line-height: 32px; margin: 55px 0 35px;font-size:26px; color:#151e23; font-family:Roboto Slab, serif; font-weight: 300; color:#ffffff">JARDUNALDIRA ETORTZEKO ASMOA DAUKAZU? <b>KONFIRMATU ZURE BERTARATZEA</b></p>
           <p style="line-height: 32px; margin: 10px 0 35px;font-size:26px; color:#151e23; font-family:Roboto Slab, serif; font-weight: 300; color:#ffffff">¿TIENES PREVISTO ASISTIR A LA JORNADA? <b>CONFIRMA TU ASISTENCIA</b></p>
           </mj-text>
         	<mj-button align="center" background-color="#ffffff" border-radius="8px" color="#A22621" font-family="Asap,Helvetica,Arial,sans-serif" font-size="24px" font-weight="normal" inner-padding="10px 25px" padding="10px 25px" text-decoration="none" text-transform="none" vertical-align="middle">EMAIL</mj-button>
         <mj-button align="center" background-color="#ffffff" border-radius="8px" color="#A22621" font-family="Asap,Helvetica,Arial,sans-serif" font-size="24px" font-weight="normal" inner-padding="10px 25px" padding="10px 25px" text-decoration="none" text-transform="none" vertical-align="middle">TELEFONO</mj-button>
-        <mj-text align="center" color="#ffffff" font-family="Asap,Helvetica,Arial,sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="15px" padding-top="0px" padding="35px 0px" position="relative" style="position: relative; z-index: 2;">
+        <mj-text align="center" color="#ffffff" font-family="Asap,Helvetica,Arial,sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="15px" padding-top="0px" padding="35px 0px">
             <p style="line-height: 20px; margin: 35px 0 10px;font-size:18px; color:#151e23; font-family:Asap,Helvetica,Arial,sans-serif; font-weight: 300; color:#ffffff">Izena emateko azken eguna: azaroak 15</p>
           <p style="line-height: 20x; margin: 5px 0 55px;font-size:18px; color:#151e23; font-family:Asap,Helvetica,Arial,sans-serif, serif; font-weight: 300; color:#ffffff">Último día para inscribirse: 15 de noviembre</p>
           </mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#450A14" background-repeat="repeat" padding="20px 0" text-align="center" vertical-align="top">
+    <mj-section background-color="#450A14" background-repeat="repeat" padding="20px 0" text-align="center">
       <mj-column>
         <mj-image align="center" padding="10px 25px" src="https://raw.githubusercontent.com/ianzua/email/main/armeria-eskola/logo-txuri.png" target="_blank" width="202px"></mj-image>
-        <mj-text align="center" color="#ffffff" font-family="Asap,Helvetica,Arial,sans-serif" font-size="13px" line-height="22px" padding="15px 50px 35px 50px" position="relative">
+        <mj-text align="center" color="#ffffff" font-family="Asap,Helvetica,Arial,sans-serif" font-size="13px" line-height="22px" padding="15px 50px 35px 50px">
             <p style="line-height: 9px; margin: 55px 0 35px;font-size:8px; color:#151e23; font-family:Asap,Helvetica,Arial,sans-serif; font-weight: 300; color:#ffffff">Interesatuak ematen dituen datuak, bakar bakarrik erabiliko dira dagokion prozedura edo egintzan aurreikusitako helburuetarako.
 Datu hauek ez dira izango, inolaz ere, tratamendu edo hirugarren bati lagatzeko xede, doakionaren zalantzarik gabeko baimenarekin edo Datu Pertsonalen Babeserako abenduaren 13ko 15/1999 Legearen 6.2 eta 11.2 artikuluetan (1999ko abenduaren 14ko 298 zk.ko EAOa) ezarritakoari jarraituz ez bada.
 Aipatutako 15/1999 Lege Organikoaren arabera, datu-lagatzaileak edozein momentuan izango ditu sarbide, zuzenketa, ezeztapen eta aurkaritza eskubideak, arauz ezartzen denari jarraituz.
