@@ -95,7 +95,7 @@
 /*ROBOTO SLAB*/
 
 @font-face {
-    font-family: 'Roboto-Slab';
+    font-family: 'RobotoSlab';
     src: url('fonts/RobotoSlab-Bold.eot');
     src: url('fonts/RobotoSlab-Bold.eot?#iefix') format('embedded-opentype'),
         url('fonts/RobotoSlab-Bold.woff') format('woff'),
@@ -107,7 +107,7 @@
 }
 
 @font-face {
-    font-family: 'Roboto-Slab';
+    font-family: 'RobotoSlab';
     src: url('fonts/RobotoSlab-SemiBold.eot');
     src: url('fonts/RobotoSlab-SemiBold.eot?#iefix') format('embedded-opentype'),
         url('fonts/RobotoSlab-SemiBold.woff') format('woff'),
@@ -119,7 +119,7 @@
 }
 
 @font-face {
-    font-family: 'Roboto-Slab';
+    font-family: 'RobotoSlab';
     src: url('fonts/RobotoSlab-Light.eot');
     src: url('fonts/RobotoSlab-Light.eot?#iefix') format('embedded-opentype'),
         url('fonts/RobotoSlab-Light.woff') format('woff'),
@@ -131,7 +131,7 @@
 }
 
 @font-face {
-    font-family: 'Roboto-Slab';
+    font-family: 'RobotoSlab';
     src: url('fonts/RobotoSlab-ExtraLight.eot');
     src: url('fonts/RobotoSlab-ExtraLight.eot?#iefix') format('embedded-opentype'),
         url('fonts/RobotoSlab-ExtraLight.woff') format('woff'),
@@ -143,7 +143,7 @@
 }
 
 @font-face {
-    font-family: 'Roboto-Slab';
+    font-family: 'RobotoSlab';
     src: url('fonts/RobotoSlab-Medium.eot');
     src: url('fonts/RobotoSlab-Medium.eot?#iefix') format('embedded-opentype'),
         url('fonts/RobotoSlab-Medium.woff') format('woff'),
@@ -155,7 +155,7 @@
 }
 
 @font-face {
-    font-family: 'Roboto-Slab';
+    font-family: 'RobotoSlab';
     src: url('fonts/RobotoSlab-Thin.eot');
     src: url('fonts/RobotoSlab-Thin.eot?#iefix') format('embedded-opentype'),
         url('fonts/RobotoSlab-Thin.woff') format('woff'),
@@ -167,7 +167,7 @@
 }
 
 @font-face {
-    font-family: 'Roboto-Slab';
+    font-family: 'RobotoSlab';
     src: url('fonts/RobotoSlab-ExtraBold.eot');
     src: url('fonts/RobotoSlab-ExtraBold.eot?#iefix') format('embedded-opentype'),
         url('fonts/RobotoSlab-ExtraBold.woff') format('woff'),
@@ -179,7 +179,7 @@
 }
 
 @font-face {
-    font-family: 'Roboto-Slab';
+    font-family: 'RobotoSlab';
     src: url('fonts/RobotoSlab-Regular.eot');
     src: url('fonts/RobotoSlab-Regular.eot?#iefix') format('embedded-opentype'),
         url('fonts/RobotoSlab-Regular.woff') format('woff'),
@@ -191,7 +191,7 @@
 }
 
 @font-face {
-    font-family: 'Roboto-Slab';
+    font-family: 'RobotoSlab';
     src: url('fonts/RobotoSlab-Black.eot');
     src: url('fonts/RobotoSlab-Black.eot?#iefix') format('embedded-opentype'),
         url('fonts/RobotoSlab-Black.woff') format('woff'),
