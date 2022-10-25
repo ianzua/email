@@ -95,7 +95,7 @@
 /*ROBOTO SLAB*/
 
 @font-face {
-    font-family: 'Roboto Slab';
+    font-family: 'RobotoSlab';
     src: url('fonts/roboto/RobotoSlab-ExtraBold.eot');
     src: url('fonts/roboto/RobotoSlab-ExtraBold.eot?#iefix') format('embedded-opentype'),
         url('fonts/roboto/RobotoSlab-ExtraBold.woff2') format('woff2'),
@@ -108,7 +108,7 @@
 }
 
 @font-face {
-    font-family: 'Roboto Slab';
+    font-family: 'RobotoSlab';
     src: url('fonts/roboto/RobotoSlab-Light.eot');
     src: url('fonts/roboto/RobotoSlab-Light.eot?#iefix') format('embedded-opentype'),
         url('fonts/roboto/RobotoSlab-Light.woff2') format('woff2'),
@@ -124,3 +124,8 @@
 
 
 p{margin: 0px!important}
+
+.borobila{
+    position: absolute!important;
+    margin-left: -6px!important;
+}

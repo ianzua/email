@@ -1,7 +1,5 @@
 <mjml>
   <mj-head>
-     <mj-font name="Roboto Slab"
-       href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;800" />
     	<mj-include path="https://github.com/ianzua/email/blob/main/armeria-eskola/style.css" type="css" />
    </mj-head>
   <mj-body>
@@ -47,35 +45,35 @@
     <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" padding="20px 0" text-align="center">
       <mj-column>
           <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-top="0px" padding="10px 0px 20px 0px">
-            <p style="margin: 10px 0; color:#151e23; font-size:24px; font-weight: 600; font-family:Roboto Slab, serif">EGITARAUA</p>
+            <p style="margin: 10px 0; color:#151e23; font-size:24px; font-weight: 600; font-family:Roboto Slab, Rockwell, serif">EGITARAUA</p>
           </mj-text>
         <mj-column border-left="2px solid #D8DDE7" width="290px">
           <mj-raw>
-            <span background-color="#9A2E33" height="10px" width="10px" style="display: block;height: 10px; width: 10px; background-color: #9A2E33; border-radius: 50%; position: absolute; border: 2px solid #D8DDE7; margin-left: -6px; margin-top: 15px"></span>
+            <div class="borobila" background-color="#9A2E33" height="10px" width="10px" style="display: block;height: 10px; width: 10px; background-color: #9A2E33; border-radius: 50%; position: absolute!important; border: 2px solid #D8DDE7; margin-left: -6px; margin-top: 15px"></div>
           </mj-raw>
           <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="15px" padding-top="0px" padding="10px 0px">
-            <p style="margin: 10px 0 0 0; color:#9A2E33; font-size:12px; font-weight: 600; font-family:Roboto Slab, serif">12:00-12:45</p>
-            <p style="line-height: 16px; margin: 10px 0;font-size:16px; color:#151e23; font-family:Roboto Slab, serif; font-weight: 600; color:#000000">Mahai-ingurua</p>
+            <p style="margin: 10px 0 0 0; color:#9A2E33; font-size:12px; font-weight: 600; font-family:Roboto Slab, Rockwell, serif">12:00-12:45</p>
+            <p style="line-height: 16px; margin: 10px 0;font-size:16px; color:#151e23; font-family:Roboto Slab, Rockwell, serif; font-weight: 600; color:#000000">Mahai-ingurua</p>
             <p style="line-height: 16px; margin: 10px 0 25px;font-size:16px; color:#000000; font-family:Asap,Helvetica,Arial,sans-serif; font-weight: 500; color:#000000">PARTE-HARTZAILEAK:</p>
-            <p style="line-height: 16px; margin-bottom: 3px;font-size:16px; color:#000000; font-family:Roboto Slab, serif; font-weight: 600; color:#000000">Jon Gurrutxaga</p>
+            <p style="line-height: 16px; margin-bottom: 3px;font-size:16px; color:#000000; font-family:Roboto Slab, Rockwell, serif; font-weight: 600; color:#000000">Jon Gurrutxaga</p>
             <p style="line-height: 14px; margin-bottom:20px;font-size:13px; color:#000000; font-family:Asap,Helvetica,Arial,sans-serif; font-weight: 400; color:#000000">GFAko Berrikuntza zuzendaria</p>
-            <p style="line-height: 16px; margin-bottom: 3px;font-size:16px; color:#000000; font-family:Roboto Slab, serif; font-weight: 600; color:#000000">Josu Ansola</p>
+            <p style="line-height: 16px; margin-bottom: 3px;font-size:16px; color:#000000; font-family:Roboto Slab, Rockwell, serif; font-weight: 600; color:#000000">Josu Ansola</p>
             <p style="line-height: 14px; margin-bottom:20px;font-size:13px; color:#000000; font-family:Asap,Helvetica,Arial,sans-serif; font-weight: 400; color:#000000">Izarra Centerreko IoT arduraduna</p>
-            <p style="line-height: 16px; margin-bottom: 3px;font-size:16px; color:#000000; font-family:Roboto Slab, serif; font-weight: 600; color:#000000">Nerea Zamacola</p>
+            <p style="line-height: 16px; margin-bottom: 3px;font-size:16px; color:#000000; font-family:Roboto Slab, Rockwell, serif; font-weight: 600; color:#000000">Nerea Zamacola</p>
             <p style="line-height: 14px; margin-bottom:20px;font-size:13px; color:#000000; font-family:Asap,Helvetica,Arial,sans-serif; font-weight: 400; color:#000000">ADEGIko Lan Harremanen zuzendaria</p>
-            <p style="line-height: 16px; margin-bottom: 3px;font-size:16px; color:#000000; font-family:Roboto Slab, serif; font-weight: 600; color:#000000">Imanol Urreisti</p>
+            <p style="line-height: 16px; margin-bottom: 3px;font-size:16px; color:#000000; font-family:Roboto Slab, Rockwell, serif; font-weight: 600; color:#000000">Imanol Urreisti</p>
             <p style="line-height: 14px; margin-bottom:20px;font-size:13px; color:#000000; font-family:Asap,Helvetica,Arial,sans-serif; font-weight: 400; color:#000000">Armeria Eskolako zuzendaria</p>
-            <p style="line-height: 16px; margin-bottom: 3px;font-size:16px; color:#000000; font-family:Roboto Slab, serif; font-weight: 600; color:#000000">Iñigo Fuente</p>
+            <p style="line-height: 16px; margin-bottom: 3px;font-size:16px; color:#000000; font-family:Roboto Slab, Rockwell, serif; font-weight: 600; color:#000000">Iñigo Fuente</p>
             <p style="line-height: 14px; margin-bottom:20px;font-size:13px; color:#000000; font-family:Asap,Helvetica,Arial,sans-serif; font-weight: 400; color:#000000">BIELE GROUPeko Industria 4.0 arduraduna</p>
           </mj-text>
         </mj-column>
         <mj-column border-left="2px solid #D8DDE7" width="290px">
           <mj-raw>
-            <span background-color="#9A2E33" height="10px" width="10px" style="display: block;height: 10px; width: 10px; background-color: #9A2E33; border-radius: 50%; position: absolute; border: 2px solid #D8DDE7; margin-left: -6px; margin-top: 15px"></span>
+            <div class="borobila" background-color="#9A2E33" height="10px" width="10px" style="display: block;height: 10px; width: 10px; background-color: #9A2E33; border-radius: 50%; position: absolute!important; border: 2px solid #D8DDE7; margin-left: -6px; margin-top: 15px"></div>
           </mj-raw>
           <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="15px" padding-top="0px" padding="10px 0px">
-            <p style="margin: 10px 0 0 0; color:#9A2E33; font-size:12px; font-weight: 600; font-family:Roboto Slab, serif">12:45-13:00</p>
-            <p style="line-height: 16px; margin: 10px 0;font-size:16px; color:#151e23; font-family:Roboto Slab, serif; font-weight: 600; color:#000000">Hitzaldia</p>
+            <p style="margin: 10px 0 0 0; color:#9A2E33; font-size:12px; font-weight: 600; font-family:Roboto Slab, Rockwell, serif">12:45-13:00</p>
+            <p style="line-height: 16px; margin: 10px 0;font-size:16px; color:#151e23; font-family:Roboto Slab, Rockwell, serif; font-weight: 600; color:#000000">Hitzaldia</p>
             <p style="line-height: 16px; margin: 10px 0 3px 0;font-size:16px; color:#000000; font-family:Asap,Helvetica,Arial,sans-serif; font-weight: 500; color:#000000">HIZLARIA:</p>
             <p style="line-height: 14px; margin-bottom: 20px;font-size:13px; color:#000000; font-family:Asap,Helvetica,Arial,sans-serif; font-weight: 400; color:#000000"><b>Imanol Urreisti</b>, Armeria Eskolako zuzendaria</p> 
             <p style="line-height: 16px; margin: 10px 0 0 0;font-size:16px; color:#000000; font-family:Asap,Helvetica,Arial,sans-serif; font-weight: 500; color:#000000">GAIA:</p>
@@ -86,39 +84,39 @@
       
       <mj-column>
           <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-top="0px" padding="10px 30px 10px 0px">
-            <p style="margin: 10px 0; color:#151e23; font-size:24px; font-weight: 600; font-family:Roboto Slab, serif">PROGRAMACIÓN</p>
+            <p style="margin: 10px 0; color:#151e23; font-size:24px; font-weight: 600; font-family:Roboto Slab, Rockwell, serif">PROGRAMACIÓN</p>
           </mj-text>
         <mj-column border-left="2px solid #D8DDE7" width="280px">
           <mj-raw>
-            <div background-color="#9A2E33" height="10px" width="10px" style="display: block;height: 10px; width: 10px; background-color: #9A2E33; border-radius: 50%; position: absolute; border: 2px solid #D8DDE7; margin-left: -6px; margin-top: 15px"></div>
+            <div class="borobila" background-color="#9A2E33" height="10px" width="10px" style="display: block;height: 10px; width: 10px; background-color: #9A2E33; border-radius: 50%; position: absolute!important; border: 2px solid #D8DDE7; margin-left: -6px; margin-top: 15px"></div>
           </mj-raw>
           <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="15px" padding-top="0px" padding="10px 0px">
-            <p style="margin: 10px 0 0 0; color:#9A2E33; font-size:12px; font-weight: 600; font-family:Roboto Slab, serif">12:00-12:45</p>
-            <p style="line-height: 16px; margin: 10px 0;font-size:16px; color:#151e23; font-family:Roboto Slab, serif; font-weight: 600; color:#000000">Mesa redonda</p>
+            <p style="margin: 10px 0 0 0; color:#9A2E33; font-size:12px; font-weight: 600; font-family:Roboto Slab, Rockwell, serif">12:00-12:45</p>
+            <p style="line-height: 16px; margin: 10px 0;font-size:16px; color:#151e23; font-family:Roboto Slab, Rockwell, serif; font-weight: 600; color:#000000">Mesa redonda</p>
             <p style="line-height: 16px; margin: 10px 0 25px;font-size:16px; color:#000000; font-family:Asap,Helvetica,Arial,sans-serif; font-weight: 500; color:#000000">PARTICIPANTES:</p>
-            <p style="line-height: 16px; margin-bottom: 3px;font-size:16px; color:#000000; font-family:Roboto Slab, serif; font-weight: 600; color:#000000">Jon Gurrutxaga</p>
+            <p style="line-height: 16px; margin-bottom: 3px;font-size:16px; color:#000000; font-family:Roboto Slab, Rockwell, serif; font-weight: 600; color:#000000">Jon Gurrutxaga</p>
             <p style="line-height: 14px; margin-bottom:20px;font-size:13px; color:#000000; font-family:Asap,Helvetica,Arial,sans-serif; font-weight: 400; color:#000000">Director de Innovación en DFG</p>
-            <p style="line-height: 16px; margin-bottom: 3px;font-size:16px; color:#000000; font-family:Roboto Slab, serif; font-weight: 600; color:#000000">Josu Ansola</p>
+            <p style="line-height: 16px; margin-bottom: 3px;font-size:16px; color:#000000; font-family:Roboto Slab, Rockwell, serif; font-weight: 600; color:#000000">Josu Ansola</p>
             <p style="line-height: 14px; margin-bottom:20px;font-size:13px; color:#000000; font-family:Asap,Helvetica,Arial,sans-serif; font-weight: 400; color:#000000">Responsable de IoT en Izarra Center</p>
-            <p style="line-height: 16px; margin-bottom: 3px;font-size:16px; color:#000000; font-family:Roboto Slab, serif; font-weight: 600; color:#000000">Nerea Zamacola</p>
+            <p style="line-height: 16px; margin-bottom: 3px;font-size:16px; color:#000000; font-family:Roboto Slab, Rockwell, serif; font-weight: 600; color:#000000">Nerea Zamacola</p>
             <p style="line-height: 14px; margin-bottom:20px;font-size:13px; color:#000000; font-family:Asap,Helvetica,Arial,sans-serif; font-weight: 400; color:#000000">Directora de Relaciones Laborales en ADEGI</p>
-            <p style="line-height: 16px; margin-bottom: 3px;font-size:16px; color:#000000; font-family:Roboto Slab, serif; font-weight: 600; color:#000000">Imanol Urreisti</p>
+            <p style="line-height: 16px; margin-bottom: 3px;font-size:16px; color:#000000; font-family:Roboto Slab, Rockwell, serif; font-weight: 600; color:#000000">Imanol Urreisti</p>
             <p style="line-height: 14px; margin-bottom:20px;font-size:13px; color:#000000; font-family:Asap,Helvetica,Arial,sans-serif; font-weight: 400; color:#000000">Director de Armeria Eskola</p>
-            <p style="line-height: 16px; margin-bottom: 3px;font-size:16px; color:#000000; font-family:Roboto Slab, serif; font-weight: 600; color:#000000">Iñigo Fuente</p>
+            <p style="line-height: 16px; margin-bottom: 3px;font-size:16px; color:#000000; font-family:Roboto Slab, Rockwell, serif; font-weight: 600; color:#000000">Iñigo Fuente</p>
             <p style="line-height: 14px; margin-bottom:20px;font-size:13px; color:#000000; font-family:Asap,Helvetica,Arial,sans-serif; font-weight: 400; color:#000000">Responsable de Industria 4.0 en BIELE GROUP</p>
           </mj-text>
         </mj-column>
         <mj-column border-left="2px solid #D8DDE7" width="280px">
           <mj-raw>
-            <div background-color="#9A2E33" height="10px" width="10px" style="display: block;height: 10px; width: 10px; background-color: #9A2E33; border-radius: 50%; position: absolute; border: 2px solid #D8DDE7; margin-left: -6px; margin-top: 15px"></div>
+            <div class="borobila" background-color="#9A2E33" height="10px" width="10px" style="display: block;height: 10px; width: 10px; background-color: #9A2E33; border-radius: 50%; position: absolute!important; border: 2px solid #D8DDE7; margin-left: -6px; margin-top: 15px"></div>
           </mj-raw>
           <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="15px" padding-top="0px" padding="10px 0px">
-            <p style="margin: 10px 0 0 0; color:#9A2E33; font-size:12px; font-weight: 600; font-family:Roboto Slab, serif">12:45-13:00</p>
-            <p style="line-height: 16px; margin: 10px 0;font-size:16px; color:#151e23; font-family:Roboto Slab, serif; font-weight: 600; color:#000000">Ponencia</p>
+            <p style="margin: 10px 0 0 0; color:#9A2E33; font-size:12px; font-weight: 600; font-family:Roboto Slab, Rockwell, serif">12:45-13:00</p>
+            <p style="line-height: 16px; margin: 10px 0;font-size:16px; color:#151e23; font-family:Roboto Slab, Rockwell, serif; font-weight: 600; color:#000000">Ponencia</p>
             <p style="line-height: 16px; margin: 10px 0 3px 0;font-size:16px; color:#000000; font-family:Asap,Helvetica,Arial,sans-serif; font-weight: 500; color:#000000">PONENTE:</p>
             <p style="line-height: 14px; margin-bottom: 20px;font-size:13px; color:#000000; font-family:Asap,Helvetica,Arial,sans-serif; font-weight: 400; color:#000000"><b>Imanol Urreisti</b>, director de Armeria Eskola</p> 
             <p style="line-height: 16px; margin: 10px 0 0 0;font-size:16px; color:#000000; font-family:Asap,Helvetica,Arial,sans-serif; font-weight: 500; color:#000000">TEMA:</p>
-            <p style="line-height: 14px; margin-bottom: 20px;font-size:13px; color:#000000; font-family:Asap,Helvetica,Arial,sans-serif; font-weight: 400; color:#000000">Conclusiones de la reflexión y contraste sobre la nueva especialización ("Digitalización del Mantenimiento Industrial").</p>
+            <p style="line-height: 14px; margin-bottom: 20px;font-size:13px; color:#000000; font-family:Asap,Helvetica,Arial,sans-serif; font-weight: 400; color:#000000">Conclusiones de la reflexión sobre la nueva especialización ("Digitalización del Mantenimiento Industrial").</p>
           </mj-text>
         </mj-column>
       </mj-column>
@@ -132,8 +130,8 @@
     <mj-section background-color="#ffffff" background-url="https://raw.githubusercontent.com/ianzua/email/main/armeria-eskola/cta.png" background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 15%" text-align="center">
       <mj-column>
         <mj-text align="center" color="#ffffff" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="15px" padding-top="0px" padding="35px 0px">
-            <p style="line-height: 32px; margin: 55px 0 35px;font-size:26px; color:#151e23; font-family:Roboto Slab, serif; font-weight: 300; color:#ffffff">JARDUNALDIRA ETORTZEKO ASMOA DAUKAZU? <b>KONFIRMATU ZURE BERTARATZEA</b></p>
-          <p style="line-height: 32px; margin: 10px 0 35px;font-size:26px; color:#151e23; font-family:Roboto Slab, serif; font-weight: 300; color:#ffffff">¿TIENES PREVISTO ASISTIR A LA JORNADA? <b>CONFIRMA TU ASISTENCIA</b></p>
+            <p style="line-height: 32px; margin: 55px 0 35px;font-size:26px; color:#151e23; font-family:Roboto Slab, Rockwell, serif; font-weight: 300; color:#ffffff">JARDUNALDIRA ETORTZEKO ASMOA DAUKAZU? <b>KONFIRMATU ZURE BERTARATZEA</b></p>
+          <p style="line-height: 32px; margin: 10px 0 35px;font-size:26px; color:#151e23; font-family:Roboto Slab, Rockwell, serif; font-weight: 300; color:#ffffff">¿TIENES PREVISTO ASISTIR A LA JORNADA? <b>CONFIRMA TU ASISTENCIA</b></p>
           </mj-text>
         	<mj-button href="mailto:eibar@armeriaeskola.eus" align="center" background-color="#ffffff" border-radius="8px" color="#A22621" font-family="Asap,Helvetica,Arial,sans-serif" font-size="24px" font-weight="normal" inner-padding="10px 25px" padding="10px 25px" text-decoration="none" text-transform="none" vertical-align="middle">EMAIL</mj-button>
         <mj-button href="tel:943203244" align="center" background-color="#ffffff" border-radius="8px" color="#A22621" font-family="Asap,Helvetica,Arial,sans-serif" font-size="24px" font-weight="normal" inner-padding="10px 25px" padding="10px 25px" text-decoration="none" text-transform="none" vertical-align="middle">TELEFONO</mj-button>
