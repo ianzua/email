@@ -1,0 +1,147 @@
+<mjml>
+  <mj-head>
+    	<mj-include path="https://github.com/ianzua/email/blob/main/armeria-eskola/style.css" type="css" />
+   </mj-head>
+  <mj-body>
+    <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" padding-top="30px" padding="20px 0" text-align="center">
+      <mj-column>
+        <mj-image align="center" padding="10px 10px" src="https://raw.githubusercontent.com/ianzua/email/main/armeria-eskola/logo-gorri.png" target="_blank" width="166px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center">
+      <mj-column>
+        <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="0px" src="https://raw.githubusercontent.com/ianzua/email/main/armeria-eskola/hero-2.png" target="_blank" width="600px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding-bottom="0px" padding-top="30px" padding="20px 0" text-align="left">
+      <mj-column>
+        <mj-text align="center" color="#55575d" font-family="Asap, Arial, sans-serif" font-size="20px" line-height="22px" font-weight="500" padding-bottom="10px" padding-top="10px" padding="10px 25px">
+          <p style="line-height: 30px; margin: 10px 0; text-align: left; color:#151e23; font-size:20px; font-weight: 500; font-family:Asap,Calibri,Arial,sans-serif"><img style="width: 30px; margin-bottom: -8px" src="https://raw.githubusercontent.com/ianzua/email/main/armeria-eskola/eguna-1.png" /> Azaroak 17 / 17 de Noviembre</p>
+          <p style="line-height: 30px; margin: 10px 0; text-align: left; color:#151e23; font-size:20px; font-weight: 500; font-family:Asap,Calibri,Arial,sans-serif"><img style="width: 30px; margin-bottom: -8px" src="https://raw.githubusercontent.com/ianzua/email/main/armeria-eskola/ordutegia-1.png" /> 12:00 - 13:00</p>
+          <p style="line-height: 30px; margin: 10px 0; text-align: left; color:#151e23; font-size:20px; font-weight: 500; font-family:Asap,Calibri,Arial,sans-serif"><img style="width: 30px; margin-bottom: -8px" src="https://raw.githubusercontent.com/ianzua/email/main/armeria-eskola/lekua-1.png" /> Armeria Eskola, Eibar</p>
+          <p style="line-height: 30px; margin: 10px 0; text-align: left; color:#151e23; font-size:20px; font-weight: 500; font-family:Asap,Calibri,Arial,sans-serif"><img style="width: 30px; margin-bottom: -8px" src="https://raw.githubusercontent.com/ianzua/email/main/armeria-eskola/elebiduna-1.png" /> Elebiduna / Bilingüe</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center">
+      <mj-column width="100%">
+        <mj-image align="center" padding-bottom="20px" padding-left="20px" padding-right="20px" padding-top="20px" padding="0px" src="https://raw.githubusercontent.com/ianzua/email/main/armeria-eskola/JARDUNALDIA.png" target="_blank" width="500px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding-bottom="0px" padding-top="30px" padding="20px 0" text-align="center">
+      <mj-column width="50%">
+        <mj-text align="left" color="#55575d" font-family="Asap,Calibri,Arial,sans-serif" font-size="70px" line-height="22px" padding-bottom="10px" padding-top="10px" padding="10px 20px 10px 0px">
+          <p style="line-height: 16px; margin: 10px 0; text-align: left; color:#000; font-size:13px; font-weight: 100; font-family:Asap,Calibri,Arial,sans-serif;">Armeria Eskolan badakigu gero eta digitalagoa den mundu honetan, enpresek beren negozio-ereduak aldatu behar izan dituztela, alegia, <b>digitalki eraldatu</b> beharra izan dutela, biziraun ahal izateko. </p>
+					<p style="line-height: 16px; margin: 10px 0; text-align: left; color:#000; font-size:13px; font-weight: 100; font-family:Asap,Calibri,Arial,sans-serif;">Enpresa horiei guztiei digitalizazio-prozesua ekiten laguntzeko asmoz, <b>“Industria-mantentzearen Digitalizazioa”</b> izeneko espezializazio berri bat jarri dugu abian, profesional berriak trebatzera bideratua dagoena, enpresetako lanpostuak beteko gai izan daitezen.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text align="left" color="#55575d" font-family="Asap,Calibri,Arial,sans-serif" font-size="70px" line-height="22px" padding-bottom="10px" padding-top="10px" padding="10px 20px 10px 0px">
+          <p style="line-height: 16px; margin: 10px 0; text-align: left; color:#000; font-size:13px; font-weight: 100; font-family:Asap,Calibri,Arial,sans-serif;">En Armeria Eskola sabemos que en un mundo cada vez más digital, las empresas han tenido que cambiar sus modelos de negocio; han tenido que <b>transformarse digitalmente</b> para poder sobrevivir. </p>
+					<p style="line-height: 16px; margin: 10px 0; text-align: left; color:#000; font-size:13px; font-weight: 100; font-family:Asap,Calibri,Arial,sans-serif;">Para ayudar a todas estas empresas en el proceso de digitalización, hemos puesto en marcha una nueva especialización: <b>“Digitalización del Mantenimiento Industrial”</b>, orientada a la formación de nuevos profesionales para que sean capaces de cubrir puestos de trabajo en las empresas.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" padding="20px 0" text-align="center">
+      <mj-column>
+          <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-top="0px" padding="10px 0px 20px 0px">
+            <p style="margin: 10px 0; color:#151e23; font-size:24px; font-weight: 600; font-family:Roboto Slab, Rockwell, serif">EGITARAUA</p>
+          </mj-text>
+        <mj-column border-left="2px solid #D8DDE7" width="290px">
+          <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="15px" padding-top="0px" padding="10px 0px">
+            <p style="margin: 10px 0 0 0; color:#9A2E33; font-size:12px; font-weight: 600; font-family:Roboto Slab, Rockwell, serif">12:00-12:45</p>
+            <p style="line-height: 16px; margin: 10px 0;font-size:16px; color:#151e23; font-family:Roboto Slab, Rockwell, serif; font-weight: 600; color:#000000">Mahai-ingurua</p>
+            <p style="line-height: 16px; margin: 10px 0 25px;font-size:16px; color:#000000; font-family:Asap,Calibri,Arial,sans-serif; font-weight: 500; color:#000000">PARTE-HARTZAILEAK:</p>
+            <p style="line-height: 16px; margin-bottom: 0px;font-size:16px; color:#000000; font-family:Roboto Slab, Rockwell, serif; font-weight: 600; color:#000000">Jon Gurrutxaga</p>
+            <p style="line-height: 14px; margin-bottom:20px;font-size:12.2px; color:#000000; font-family:Asap,Calibri,Arial,sans-serif; font-weight: 400; color:#000000">GFAko Berrikuntza zuzendaria</p>
+            <p style="line-height: 16px; margin-bottom: 0px;font-size:16px; color:#000000; font-family:Roboto Slab, Rockwell, serif; font-weight: 600; color:#000000">Josu Ansola</p>
+            <p style="line-height: 14px; margin-bottom:20px;font-size:12.2px; color:#000000; font-family:Asap,Calibri,Arial,sans-serif; font-weight: 400; color:#000000">Izarra Centerreko IoT arduraduna</p>
+            <p style="line-height: 16px; margin-bottom: 0px;font-size:16px; color:#000000; font-family:Roboto Slab, Rockwell, serif; font-weight: 600; color:#000000">Nerea Zamacola</p>
+            <p style="line-height: 14px; margin-bottom:20px;font-size:12.2px; color:#000000; font-family:Asap,Calibri,Arial,sans-serif; font-weight: 400; color:#000000">ADEGIko Lan Harremanen zuzendaria</p>
+            <p style="line-height: 16px; margin-bottom: 0px;font-size:16px; color:#000000; font-family:Roboto Slab, Rockwell, serif; font-weight: 600; color:#000000">Imanol Urreisti</p>
+            <p style="line-height: 14px; margin-bottom:20px;font-size:12.2px; color:#000000; font-family:Asap,Calibri,Arial,sans-serif; font-weight: 400; color:#000000">Armeria Eskolako zuzendaria</p>
+            <p style="line-height: 16px; margin-bottom: 0px;font-size:16px; color:#000000; font-family:Roboto Slab, Rockwell, serif; font-weight: 600; color:#000000">Iñigo Fuente</p>
+            <p style="line-height: 14px; margin-bottom:20px;font-size:12.2px; color:#000000; font-family:Asap,Calibri,Arial,sans-serif; font-weight: 400; color:#000000">BIELE GROUPeko Industria 4.0 arduraduna</p>
+          </mj-text>
+        </mj-column>
+        <mj-column border-left="2px solid #D8DDE7" width="290px">
+          <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="15px" padding-top="0px" padding="10px 0px">
+            <p style="margin: 10px 0 0 0; color:#9A2E33; font-size:12.2px; font-weight: 600; font-family:Roboto Slab, Rockwell, serif">12:45-13:00</p>
+            <p style="line-height: 16px; margin: 10px 0;font-size:16px; color:#151e23; font-family:Roboto Slab, Rockwell, serif; font-weight: 600; color:#000000">Hitzaldia</p>
+            <p style="line-height: 16px; margin: 10px 0 3px 0;font-size:16px; color:#000000; font-family:Asap,Calibri,Arial,sans-serif; font-weight: 500; color:#000000">HIZLARIA:</p>
+            <p style="line-height: 14px; margin-bottom: 20px;font-size:12.2px; color:#000000; font-family:Asap,Calibri,Arial,sans-serif; font-weight: 400; color:#000000"><b>Imanol Urreisti</b>, Armeria Eskolako zuzendaria</p> 
+            <p style="line-height: 16px; margin: 10px 0 0 0;font-size:16px; color:#000000; font-family:Asap,Calibri,Arial,sans-serif; font-weight: 500; color:#000000">GAIA:</p>
+            <p style="line-height: 14px; margin-bottom: 20px;font-size:12.2px; color:#000000; font-family:Asap,Calibri,Arial,sans-serif; font-weight: 400; color:#000000">Espezializazio berriaren ("Industria-mantentzearen Digitalizazioa") gaineko hausnarketa eta kontrastearen ondorioak.</p> 
+          </mj-text>
+        </mj-column>
+      </mj-column>
+      
+      <mj-column>
+          <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-top="0px" padding="10px 0px 10px 0px">
+            <p style="margin: 10px 0; color:#151e23; font-size:24px; font-weight: 600; font-family:Roboto Slab, Rockwell, serif">PROGRAMACIÓN</p>
+          </mj-text>
+        <mj-column border-left="2px solid #D8DDE7" width="280px">
+          
+          <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="15px" padding-top="0px" padding="10px 0px" padding-right="0px">
+            <p style="margin: 10px 0 0 0; color:#9A2E33; font-size:12px; font-weight: 600; font-family:Roboto Slab, Rockwell, serif">12:00-12:45</p>
+            <p style="line-height: 16px; margin: 10px 0;font-size:16px; color:#151e23; font-family:Roboto Slab, Rockwell, serif; font-weight: 600; color:#000000">Mesa redonda</p>
+            <p style="line-height: 16px; margin: 10px 0 25px;font-size:16px; color:#000000; font-family:Asap,Calibri,Arial,sans-serif; font-weight: 500; color:#000000">PARTICIPANTES:</p>
+            <p style="line-height: 16px; margin-bottom: 0px;font-size:16px; color:#000000; font-family:Roboto Slab, Rockwell, serif; font-weight: 600; color:#000000">Jon Gurrutxaga</p>
+            <p style="line-height: 14px; margin-bottom:20px;font-size:12.2px; color:#000000; font-family:Asap,Calibri,Arial,sans-serif; font-weight: 400; color:#000000">Director de Innovación en DFG</p>
+            <p style="line-height: 16px; margin-bottom: 0px;font-size:16px; color:#000000; font-family:Roboto Slab, Rockwell, serif; font-weight: 600; color:#000000">Josu Ansola</p>
+            <p style="line-height: 14px; margin-bottom:20px;font-size:12.2px; color:#000000; font-family:Asap,Calibri,Arial,sans-serif; font-weight: 400; color:#000000">Responsable de IoT en Izarra Center</p>
+            <p style="line-height: 16px; margin-bottom: 0px;font-size:16px; color:#000000; font-family:Roboto Slab, Rockwell, serif; font-weight: 600; color:#000000">Nerea Zamacola</p>
+            <p style="line-height: 14px; margin-bottom:20px;font-size:12.2px; color:#000000; font-family:Asap,Calibri,Arial,sans-serif; font-weight: 400; color:#000000">Directora de Relaciones Laborales en ADEGI</p>
+            <p style="line-height: 16px; margin-bottom: 0px;font-size:16px; color:#000000; font-family:Roboto Slab, Rockwell, serif; font-weight: 600; color:#000000">Imanol Urreisti</p>
+            <p style="line-height: 14px; margin-bottom:20px;font-size:12.2px; color:#000000; font-family:Asap,Calibri,Arial,sans-serif; font-weight: 400; color:#000000">Director de Armeria Eskola</p>
+            <p style="line-height: 16px; margin-bottom: 0px;font-size:16px; color:#000000; font-family:Roboto Slab, Rockwell, serif; font-weight: 600; color:#000000">Iñigo Fuente</p>
+            <p style="line-height: 14px; margin-bottom:20px;font-size:12.2px; color:#000000; font-family:Asap,Calibri,Arial,sans-serif; font-weight: 400; color:#000000">Responsable de Industria 4.0 en BIELE GROUP</p>
+          </mj-text>
+        </mj-column>
+        <mj-column border-left="2px solid #D8DDE7" width="280px">
+          <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="15px" padding-top="0px" padding="10px 0px">
+            <p style="margin: 10px 0 0 0; color:#9A2E33; font-size:12px; font-weight: 600; font-family:Roboto Slab, Rockwell, serif">12:45-13:00</p>
+            <p style="line-height: 16px; margin: 10px 0;font-size:16px; color:#151e23; font-family:Roboto Slab, Rockwell, serif; font-weight: 600; color:#000000">Ponencia</p>
+            <p style="line-height: 16px; margin: 10px 0 3px 0;font-size:16px; color:#000000; font-family:Asap,Calibri,Arial,sans-serif; font-weight: 500; color:#000000">PONENTE:</p>
+            <p style="line-height: 14px; margin-bottom: 20px;font-size:12.2px; color:#000000; font-family:Asap,Calibri,Arial,sans-serif; font-weight: 400; color:#000000"><b>Imanol Urreisti</b>, director de Armeria Eskola</p> 
+            <p style="line-height: 16px; margin: 10px 0 0 0;font-size:16px; color:#000000; font-family:Asap,Calibri,Arial,sans-serif; font-weight: 500; color:#000000">TEMA:</p>
+            <p style="line-height: 14px; margin-bottom: 20px;font-size:12.2px; color:#000000; font-family:Asap,Calibri,Arial,sans-serif; font-weight: 400; color:#000000">Conclusiones de la reflexión sobre la nueva especialización ("Digitalización del Mantenimiento Industrial").</p>
+          </mj-text>
+        </mj-column>
+      </mj-column>
+    </mj-section>
+     
+    <mj-section background-color="#ffffff" background-repeat="repeat" padding-top="0px" padding="20px 0" text-align="center">
+      <mj-column>
+        
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-url="https://raw.githubusercontent.com/ianzua/email/main/armeria-eskola/cta.png" background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 15%" text-align="center">
+      <mj-column>
+        <mj-text align="center" color="#ffffff" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="15px" padding-top="0px" padding="35px 0px">
+            <p style="line-height: 32px; margin: 55px 0 35px;font-size:26px; color:#151e23; font-family:Roboto Slab, Rockwell, serif; font-weight: 300; color:#ffffff">JARDUNALDIRA ETORTZEKO ASMOA DAUKAZU? <b>KONFIRMATU ZURE BERTARATZEA</b></p>
+          <p style="line-height: 32px; margin: 10px 0 35px;font-size:26px; color:#151e23; font-family:Roboto Slab, Rockwell, serif; font-weight: 300; color:#ffffff">¿TIENES PREVISTO ASISTIR A LA JORNADA? <b>CONFIRMA TU ASISTENCIA</b></p>
+          </mj-text>
+        	<mj-button href="mailto:adaarrate@armeriaeskola.eus" align="center" background-color="#ffffff" border-radius="8px" color="#A22621" font-family="Asap,Calibri,Arial,sans-serif" font-size="24px" font-weight="normal" inner-padding="10px 25px" padding="10px 25px" text-decoration="none" text-transform="none" vertical-align="middle">EMAIL</mj-button>
+        <mj-button href="tel:722620586" align="center" background-color="#ffffff" border-radius="8px" color="#A22621" font-family="Asap,Calibri,Arial,sans-serif" font-size="24px" font-weight="normal" inner-padding="10px 25px" padding="10px 25px" text-decoration="none" text-transform="none" vertical-align="middle">TELEFONO</mj-button>
+        <mj-text align="center" color="#ffffff" font-family="Asap,Calibri,Arial,sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="15px" padding-top="0px" padding="35px 0px">
+            <p style="line-height: 20px; margin: 35px 0 10px;font-size:18px; color:#151e23; font-family:Asap,Calibri,Arial,sans-serif; font-weight: 300; color:#ffffff">Izena emateko azken eguna: azaroak 15</p>
+          <p style="line-height: 20x; margin: 5px 0 55px;font-size:18px; color:#151e23; font-family:Asap,Calibri,Arial,sans-serif, serif; font-weight: 300; color:#ffffff">Último día para inscribirse: 15 de noviembre</p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#450A14" background-repeat="repeat" padding="20px 0" text-align="center">
+      <mj-column>
+        <mj-image align="center" padding="10px 25px" src="https://raw.githubusercontent.com/ianzua/email/main/armeria-eskola/logo-txuri.png" target="_blank" width="202px"></mj-image>
+        <mj-text align="center" color="#ffffff" font-family="Asap,Calibri,Arial,sans-serif" font-size="13px" line-height="22px" padding="15px 50px 35px 50px">
+            <p style="line-height: 9px; margin: 55px 0 35px;font-size:8px; color:#151e23; font-family:Asap,Calibri,Arial,sans-serif; font-weight: 300; color:#ffffff">Interesatuak ematen dituen datuak, bakar bakarrik erabiliko dira dagokion prozedura edo egintzan aurreikusitako helburuetarako.
+Datu hauek ez dira izango, inolaz ere, tratamendu edo hirugarren bati lagatzeko xede, doakionaren zalantzarik gabeko baimenarekin edo Datu Pertsonalen Babeserako abenduaren 13ko 15/1999 Legearen 6.2 eta 11.2 artikuluetan (1999ko abenduaren 14ko 298 zk.ko EAOa) ezarritakoari jarraituz ez bada.
+Aipatutako 15/1999 Lege Organikoaren arabera, datu-lagatzaileak edozein momentuan izango ditu sarbide, zuzenketa, ezeztapen eta aurkaritza eskubideak, arauz ezartzen denari jarraituz.
+
+Edozein informazio gehigarri, iradokizua edo proposamen eskaerarako, hurrengorako harremanetarako bideak: eibar@armeriaeskola.eus, 943 203244 edo 
+posta-helbidean Isasi kalean, 36 – 20600 Eibar – Basque Country.</p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
